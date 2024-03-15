@@ -1,5 +1,7 @@
 # Rock Paper Scissor 
 
+import random
+
 rock = '''
     _______
 ---'   ____)
@@ -26,8 +28,6 @@ scissors = '''
       (____)
 ---.__(___)
 '''
-
-import random
 
 options = [rock, paper, scissors]
 
