@@ -1,8 +1,10 @@
 # 100 Days of Code: The Complete Python Pro Bootcamp
 
-Master Python by building 100 projects in 100 days. 
+Mastering Python by building 100 projects in 100 days. 
 
-Udemy Course: [100 Days of Code: The Complete Python Pro Bootcamp](https://www.udemy.com/course/100-days-of-code/?couponCode=ST15MT31224).
+Udemy Course: [100 Days of Code: The Complete Python Pro Bootcamp](https://www.udemy.com/course/100-days-of-code/?couponCode=ST15MT31224) by Angela Yu.
+
+### Here are my projects:
 
 ## Beginner 
 - [Day 1:](https://github.com/moraeseduarda/100-days-of-code-python/tree/main/day01) Working with Variables in Python to Manage Data
