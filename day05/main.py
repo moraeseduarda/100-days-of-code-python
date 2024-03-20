@@ -14,19 +14,19 @@ nr_numbers = int(input(f"How many numbers would you like?\n"))
 password = []
 
 for letter in range (1, nr_letters + 1):
-  password.append(random.choice(letters))
+    password.append(random.choice(letters))
 
 for number in range (1, nr_numbers + 1):
-  password.append(str(random.choice(numbers)))
+    password.append(str(random.choice(numbers)))
 
 for symbol in range (1, nr_symbols + 1):
-  password.append(random.choice(symbols))
+    password.append(random.choice(symbols))
 
 random.shuffle(password)
 
 final_password = ""
 
 for item in password:
-  final_password += item
+    final_password += item
 
 print(f"Here is your password: {final_password}")
