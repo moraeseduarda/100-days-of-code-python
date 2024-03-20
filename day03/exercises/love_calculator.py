@@ -81,10 +81,8 @@ score = string_true + string_love
 final_score = int(score)
 
 if final_score < 10 or final_score > 90:
-  print(f"Your score is {score}, you go together like coke and mentos.")
+    print(f"Your score is {score}, you go together like coke and mentos.")
 elif final_score > 40 and final_score < 50:
-  print(f"Your score is {score}, you are alright together.")
+    print(f"Your score is {score}, you are alright together.")
 else:
-  print(f"Your score is {score}.")
-
-# https://replit.com/@eduardamorads/lovecalculator
+    print(f"Your score is {score}.")
