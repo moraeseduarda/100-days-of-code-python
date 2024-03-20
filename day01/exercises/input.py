@@ -18,5 +18,3 @@
 # ❌ name = input("What's your name?")
 
 print(len(input()))
-
-# https://replit.com/@eduardamorads/input
