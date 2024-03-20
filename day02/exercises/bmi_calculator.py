@@ -22,5 +22,3 @@ kg = float(weight)
 m = float(height)
 bmi = kg/(m**2)
 print(int(bmi))
-
-# https://replit.com/@eduardamorads/bmicalculator
