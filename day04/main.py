@@ -43,7 +43,6 @@ else:
     user_option = options[user_number]
     print(user_option)
     print(f"Computer chose:\n {computer_option}")
-
     if computer_number == user_number:
         print("It's a draw")
     elif computer_number == 0 and user_number == 2:
@@ -54,4 +53,3 @@ else:
         print("You Win.")
     elif user_number < computer_number:
         print("You Lose.")
-
