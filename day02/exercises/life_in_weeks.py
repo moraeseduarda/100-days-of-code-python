@@ -18,5 +18,3 @@ weeks_spend = idade*52
 total_weeks = 4680
 weeks_left = total_weeks - weeks_spend
 print(f"You have {weeks_left} weeks left.")
-
-# https://replit.com/@eduardamorads/lifeinweeks
