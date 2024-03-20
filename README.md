@@ -6,7 +6,7 @@ Udemy Course: [100 Days of Code: The Complete Python Pro Bootcamp](https://www.u
 
 ### Here are my projects:
 
-## Beginner 
+## 🔰 Beginner 
 - [Day 1:](https://github.com/moraeseduarda/100-days-of-code-python/tree/main/day01) Working with Variables in Python to Manage Data
 - [Day 2:](https://github.com/moraeseduarda/100-days-of-code-python/tree/main/day02) Understanding Data Types and How to Manipulate Strings
 - [Day 3:](https://github.com/moraeseduarda/100-days-of-code-python/tree/main/day03) Control Flow and Logical Operators
@@ -22,7 +22,7 @@ Udemy Course: [100 Days of Code: The Complete Python Pro Bootcamp](https://www.u
 - [Day 13:](https://github.com/moraeseduarda/100-days-of-code-python/tree/main/day13) Debugging: How to Find and Fix Errors in your Code
 - [Day 14:](https://github.com/moraeseduarda/100-days-of-code-python/tree/main/day14) Higher Lower Game Project
 
-## Intermediate
+## 🚩 Intermediate
 - [Day 15:](https://github.com/moraeseduarda/100-days-of-code-python/tree/main/day15) Local Development Environment Setup & the Coffee Machine
 - [Day 16:](https://github.com/moraeseduarda/100-days-of-code-python/tree/main/day16) Object Oriented Programming (OOP)
 - [Day 17:](https://github.com/moraeseduarda/100-days-of-code-python/tree/main/day17) The Quiz Project & The Benefits of OOP
@@ -41,7 +41,7 @@ Udemy Course: [100 Days of Code: The Complete Python Pro Bootcamp](https://www.u
 - [Day 30:](https://github.com/moraeseduarda/100-days-of-code-python/tree/main/day30) Errors, Exceptions and JSON Data: Improving the Password Manager
 - [Day 31:](https://github.com/moraeseduarda/100-days-of-code-python/tree/main/day31) Flash Card App Capstone Project
 
-## Intermediate+
+## 🤖 Intermediate+
 - [Day 32:](https://github.com/moraeseduarda/100-days-of-code-python/tree/main/day32) Send Email (smtplib) & Manage Dates (datetime) - Automated Birthday Wisher
 - [Day 33:](https://github.com/moraeseduarda/100-days-of-code-python/tree/main/day33) API Endpoints & API Parameters - ISS Overhead Notifier
 - [Day 34:](https://github.com/moraeseduarda/100-days-of-code-python/tree/main/day34) API Practice - Creating a GUI Quiz App
@@ -70,7 +70,7 @@ Udemy Course: [100 Days of Code: The Complete Python Pro Bootcamp](https://www.u
 - [Day 57:](https://github.com/moraeseduarda/100-days-of-code-python/tree/main/day57) Templating with Jinja in Flask Applications
 - [Day 58:](https://github.com/moraeseduarda/100-days-of-code-python/tree/main/day58) Web Foundation Boostrap
 
-## Advanced
+## 🎯 Advanced
 - [Day 59:](https://github.com/moraeseduarda/100-days-of-code-python/tree/main/day59) Blog Capstone Project Part 2 - Adding Styling
 - [Day 60:](https://github.com/moraeseduarda/100-days-of-code-python/tree/main/day60) Make POST Requests with Flask and HTML Forms
 - [Day 61:](https://github.com/moraeseduarda/100-days-of-code-python/tree/main/day61) Building Advanced Forms with Flask-WTForms
@@ -94,7 +94,7 @@ Udemy Course: [100 Days of Code: The Complete Python Pro Bootcamp](https://www.u
 - [Day 79:](https://github.com/moraeseduarda/100-days-of-code-python/tree/main/day79) The Tragic Discovery of Handwashing: t-Tests & Distributions
 - [Day 80:](https://github.com/moraeseduarda/100-days-of-code-python/tree/main/day80) Capstone Project - Predict House Prices
 
-## Professional Portfolio Projects
+## 🚀 Professional Portfolio Projects
 - [Day 81:](https://github.com/moraeseduarda/100-days-of-code-python/tree/main/day81) Text to Morse Code Converter
 - [Day 82:](https://github.com/moraeseduarda/100-days-of-code-python/tree/main/day82) Portfolio Website
 - [Day 83:](https://github.com/moraeseduarda/100-days-of-code-python/tree/main/day83) Tic Tac Toe
@@ -116,7 +116,7 @@ Udemy Course: [100 Days of Code: The Complete Python Pro Bootcamp](https://www.u
 - [Day 99:](https://github.com/moraeseduarda/100-days-of-code-python/tree/main/day99) Analyzing Deaths Involving Police in the United States
 - [Day 100:](https://github.com/moraeseduarda/100-days-of-code-python/tree/main/day100) Predicting Earnings using Multivariable Regression
 
-## Tools and Technologies Covered
+## ⚙️ Tools and Technologies Covered
 - Python 3
 - PyCharm, Jupyter Notebook, Google Colab
 - Python Scripting and Automation
