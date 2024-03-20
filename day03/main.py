@@ -30,33 +30,27 @@ print("Your mission is to find the exit. (You have no weapons, be aware.)")
 direction = input("You're lost. Where do you want to turn?\n Type \"left\" or \"right\"\n").lower()
 
 if direction == "left":
-  pirate = input("You've found a pirate.\n Type \"run\" to run from the pirate. Type \"duel\" to duel with the pirate.\n").lower()
+    pirate = input("You've found a pirate.\n Type \"run\" to run from the pirate. Type \"duel\" to duel with the pirate.\n").lower()
   
-  if pirate == "run":
-    door = input("You found a house with 3 doors.\n One red, one yellow and one blue. Which colour do you choose?\n").lower()
+    if pirate == "run":
+        door = input("You found a house with 3 doors.\n One red, one yellow and one blue. Which colour do you choose?\n").lower()
     
-    if door == "yellow":
-      print("You found the exit. You won!")
-      
-    elif door == "red":
-      print("It's a room full of fire. Game over.")
-      
-    elif door == "blue":
-      print("You enter a room full of beasts. Game over.")
-      
+        if door == "yellow":
+            print("You found the exit. You won!")
+        
+        elif door == "red":
+            print("It's a room full of fire. Game over.")
+        
+        elif door == "blue":
+            print("You enter a room full of beasts. Game over.")
+        
+        else:
+            print("You didn't choose. You're dead.")
+    elif pirate == "duel":
+        print("You died. Game over.")
     else:
-      print("You didn't choose. You're dead.")
-  
-  elif pirate == "duel":
-    print("You died. Game over.")
-
-  else:
-    print("You didn't choose. You're dead.")
-
+        print("You didn't choose. You're dead.")
 elif direction == "right":
-  print("You fell into a hole. Game over.")
-
+    print("You fell into a hole. Game over.")
 else:
-  print("You didn't choose. You're dead.")
-
-# https://replit.com/@eduardamorads/treasure-island
+    print("You didn't choose. You're dead.")
