@@ -15,5 +15,3 @@ round_result = round(result, 2)
 format_result = format(round_result, ".2f")
 
 print(f"Each person should pay: ${format_result}")
-
-# https://replit.com/@eduardamorads/tip-calculator
