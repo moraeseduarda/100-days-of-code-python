@@ -19,7 +19,7 @@ def game_mode():
     difficulty = input("Choose a difficulty. Type 'easy' or 'hard': ").lower()
     if difficulty == 'easy':
         return EASY_LEVEL_TURNS
-    elif difficulty == 'hard':
+    else:
         return HARD_LEVEL_TURNS
 
 def compare(right_answer, guess):
