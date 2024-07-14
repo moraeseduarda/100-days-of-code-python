@@ -21,7 +21,7 @@ Udemy Course: [100 Days of Code: The Complete Python Pro Bootcamp](https://www.u
 - [Day 12:](https://github.com/moraeseduarda/100-days-of-code-python/tree/main/day12) Scope & Number Guessing Game
 - [Day 13:](https://github.com/moraeseduarda/100-days-of-code-python/tree/main/day13) Debugging: How to Find and Fix Errors in your Code
 - [Day 14:](https://github.com/moraeseduarda/100-days-of-code-python/tree/main/day14) Higher Lower Game Project
-
+<!-- 
 ## 🚩 Intermediate
 - [Day 15:](https://github.com/moraeseduarda/100-days-of-code-python/tree/main/day15) Local Development Environment Setup & the Coffee Machine
 - [Day 16:](https://github.com/moraeseduarda/100-days-of-code-python/tree/main/day16) Object Oriented Programming (OOP)
@@ -152,4 +152,4 @@ Udemy Course: [100 Days of Code: The Complete Python Pro Bootcamp](https://www.u
 - PostgreSQL
 - Authentication
 - Web Design
-- Deployment with GitHub Pages, Heroku and GUnicorn
+- Deployment with GitHub Pages, Heroku and GUnicorn -->
