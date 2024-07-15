@@ -95,16 +95,19 @@ def check_transaction(user_total_money):
     cappuccino_price = MENU["cappuccino"]["cost"]
 
     if user_input == "espresso" and user_total_money > espresso_price:
-        change = user_total_money - espresso_price
-        print(f"Here is ${change} in change.")
+        change = (user_total_money - espresso_price)
+        rounded_change = round(change, 2)
+        print(f"Here is ${rounded_change} in change.")
         return espresso_price
     elif user_input == "latte" and user_total_money > latte_price:
         change = user_total_money - latte_price
-        print(f"Here is ${change} in change.")
+        rounded_change = round(change, 2)
+        print(f"Here is ${rounded_change} in change.")
         return latte_price
     elif user_input == "cappuccino" and user_total_money > cappuccino_price:
         change = user_total_money - cappuccino_price
-        print(f"Here is ${change} in change.")
+        rounded_change = round(change, 2)
+        print(f"Here is ${rounded_change} in change.")
         return cappuccino_price
     else:
         print("Sorry that's not enough money. Money refunded.")
@@ -113,8 +116,37 @@ def check_transaction(user_total_money):
 
 def make_coffee(user_coffee):
     # TODO: 7. Make coffee.
-    # Incomplete.
+
+    espresso_water = MENU["espresso"]["ingredients"]["water"]
+    latte_water = MENU["latte"]["ingredients"]["water"]
+    cappuccino_water = MENU["cappuccino"]["ingredients"]["water"]
+
+    espresso_coffee = MENU["espresso"]["ingredients"]["coffee"]
+    latte_coffee = MENU["latte"]["ingredients"]["coffee"]
+    cappuccino_coffee = MENU["cappuccino"]["ingredients"]["coffee"]
+
+    espresso_milk = MENU["espresso"]["ingredients"]["milk"]
+    latte_milk = MENU["latte"]["ingredients"]["milk"]
+    cappuccino_milk = MENU["cappuccino"]["ingredients"]["milk"]
+
+    if user_coffee == "espresso":
+        new_quant_water = resources["water"] - espresso_water
+        new_quant_coffee = resources["coffee"] - espresso_coffee
+        new_quant_milk = resources["milk"] - espresso_milk
+    elif user_coffee == "latte":
+        new_quant_water = resources["water"] - latte_water
+        new_quant_coffee = resources["coffee"] - latte_coffee
+        new_quant_milk = resources["milk"] - latte_milk
+    else:
+        new_quant_water = resources["water"] - cappuccino_water
+        new_quant_coffee = resources["coffee"] - cappuccino_coffee
+        new_quant_milk = resources["milk"] - cappuccino_milk
+
+    resources["water"] = new_quant_water
+    resources["coffee"] = new_quant_coffee
+    resources["milk"] = new_quant_milk
     print(f"Here is you {user_coffee} ☕. Enjoy!")
+
     return True
 
 
@@ -141,6 +173,3 @@ while should_continue:
             make_coffee(user_input)
     else:
         print("Sorry, I didn't understand.")
-
-# TODO: 6. Refactorer code and rename variables
-# Incomplete.
