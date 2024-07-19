@@ -4,14 +4,20 @@ from quiz_brain import QuizBrain
 
 question_bank = []
 
+# TODO: 2. Write a for loop to iterate over the question_data.
+# TODO: 3. Create a Question object from each entry in question_data.
+# TODO: 4. Append each Question object to the question_bank.
+
 for data in question_data:
-    question_text = data["text"]
-    question_answer = data["answer"]
-    new_question = Question(question_text, question_answer)
+    q_text = data["question"]
+    q_answer = data["correct_answer"]
+    new_question = Question(q_text, q_answer)
     question_bank.append(new_question)
 
 quiz = QuizBrain(question_bank)
-quiz.next_question()
 
-# while still_has_questions()
-#     quiz.next_question()
+while quiz.still_has_questions():
+    quiz.next_question()
+
+print("You've completed the quiz!")
+print(f"Your final score was: {quiz.score}/{len(question_bank)}.")

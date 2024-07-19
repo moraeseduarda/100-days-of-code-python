@@ -25,8 +25,7 @@ Udemy Course: [100 Days of Code: The Complete Python Pro Bootcamp](https://www.u
 ## 🚩 Intermediate
 - [Day 15:](https://github.com/moraeseduarda/100-days-of-code-python/tree/main/day15) Local Development Environment Setup & the Coffee Machine
 - [Day 16:](https://github.com/moraeseduarda/100-days-of-code-python/tree/main/day16) Object-Oriented Programming (OOP)
-
-[//]: # (- [Day 17:]&#40;https://github.com/moraeseduarda/100-days-of-code-python/tree/main/day17&#41; The Quiz Project & The Benefits of OOP)
+- [Day 17:](https://github.com/moraeseduarda/100-days-of-code-python/tree/main/day17) The Quiz Project & The Benefits of OOP
 
 [//]: # (- [Day 18:]&#40;https://github.com/moraeseduarda/100-days-of-code-python/tree/main/day18&#41; Turtle & the Graphical User Interface &#40;GUI&#41;)
 
