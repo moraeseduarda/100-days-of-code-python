@@ -27,8 +27,7 @@ Udemy Course: [100 Days of Code: The Complete Python Pro Bootcamp](https://www.u
 - [Day 16:](https://github.com/moraeseduarda/100-days-of-code-python/tree/main/day16) Object-Oriented Programming (OOP)
 - [Day 17:](https://github.com/moraeseduarda/100-days-of-code-python/tree/main/day17) The Quiz Project & The Benefits of OOP
 - [Day 18:](https://github.com/moraeseduarda/100-days-of-code-python/tree/main/day18) Turtle & the Graphical User Interface (GUI)
-
-[//]: # (- [Day 19:]&#40;https://github.com/moraeseduarda/100-days-of-code-python/tree/main/day19&#41; Instances, State and Higher Order Functions)
+- [Day 19:](https://github.com/moraeseduarda/100-days-of-code-python/tree/main/day19) Instances, State and Higher Order Functions
 
 [//]: # (- [Day 20:]&#40;https://github.com/moraeseduarda/100-days-of-code-python/tree/main/day20&#41; Build the Snake Game Part 1: Animation & Coordinates)
 
