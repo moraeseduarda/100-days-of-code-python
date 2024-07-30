@@ -5,4 +5,4 @@
 - Python Higher Order Functions & Event Listeners
 - Object State and Instances
 
-## Project: Make an Etch-A-Sketch App
+## Project: Turtle Racing Game
