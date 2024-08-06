@@ -29,8 +29,7 @@ Udemy Course: [100 Days of Code: The Complete Python Pro Bootcamp](https://www.u
 - [Day 18:](https://github.com/moraeseduarda/100-days-of-code-python/tree/main/day18) Turtle & the Graphical User Interface (GUI)
 - [Day 19:](https://github.com/moraeseduarda/100-days-of-code-python/tree/main/day19) Instances, State and Higher Order Functions
 - [Day 20:](https://github.com/moraeseduarda/100-days-of-code-python/tree/main/day20) Build the Snake Game Part 1: Animation & Coordinates
-
-[//]: # (- [Day 21:]&#40;https://github.com/moraeseduarda/100-days-of-code-python/tree/main/day21&#41; Build the Snake Game Part 2: Inheritance & List Slicing)
+- [Day 21:](https://github.com/moraeseduarda/100-days-of-code-python/tree/main/day21) Build the Snake Game Part 2: Inheritance & List Slicing
 
 [//]: # (- [Day 22:]&#40;https://github.com/moraeseduarda/100-days-of-code-python/tree/main/day22&#41; Build Pong: The Famous Arcade Game)
 
