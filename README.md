@@ -30,8 +30,7 @@ Udemy Course: [100 Days of Code: The Complete Python Pro Bootcamp](https://www.u
 - [Day 19:](https://github.com/moraeseduarda/100-days-of-code-python/tree/main/day19) Instances, State and Higher Order Functions
 - [Day 20:](https://github.com/moraeseduarda/100-days-of-code-python/tree/main/day20) Build the Snake Game Part 1: Animation & Coordinates
 - [Day 21:](https://github.com/moraeseduarda/100-days-of-code-python/tree/main/day21) Build the Snake Game Part 2: Inheritance & List Slicing
-
-[//]: # (- [Day 22:]&#40;https://github.com/moraeseduarda/100-days-of-code-python/tree/main/day22&#41; Build Pong: The Famous Arcade Game)
+- [Day 22:](https://github.com/moraeseduarda/100-days-of-code-python/tree/main/day22) Build Pong: The Famous Arcade Game
 
 [//]: # (- [Day 23:]&#40;https://github.com/moraeseduarda/100-days-of-code-python/tree/main/day23&#41; The Turtle Crossing Capstone Project)
 
