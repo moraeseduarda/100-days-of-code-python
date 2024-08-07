@@ -20,6 +20,7 @@ screen.onkey(snake.up, "Up")
 screen.onkey(snake.down, "Down")
 screen.onkey(snake.left, "Left")
 screen.onkey(snake.right, "Right")
+screen.tracer(0)
 
 game_is_on = True
 
@@ -29,6 +30,7 @@ while game_is_on:
     snake.move()
 
     # Detect Collisions with Food
+    # object.distance(another_object) - measures the distance between the centers of two distinct objects.
     if snake.snake_head.distance(food) < 20:
         food.refresh()
         snake.extend()

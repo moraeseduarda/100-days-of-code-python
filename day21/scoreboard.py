@@ -10,7 +10,6 @@ class Scoreboard(Turtle):
         super().__init__()
         self.score = 0
         self.hideturtle()
-        self.shapesize(100)
         self.color("white")
         self.penup()
         self.goto(0, 250)
