@@ -32,8 +32,7 @@ Udemy Course: [100 Days of Code: The Complete Python Pro Bootcamp](https://www.u
 - [Day 21:](https://github.com/moraeseduarda/100-days-of-code-python/tree/main/day21) Build the Snake Game Part 2: Inheritance & List Slicing
 - [Day 22:](https://github.com/moraeseduarda/100-days-of-code-python/tree/main/day22) Build Pong: The Famous Arcade Game
 - [Day 23:](https://github.com/moraeseduarda/100-days-of-code-python/tree/main/day23) The Turtle Crossing Capstone Project
-
-[//]: # (- [Day 24:]&#40;https://github.com/moraeseduarda/100-days-of-code-python/tree/main/day24&#41; Files, Directories and Paths)
+- [Day 24:](https://github.com/moraeseduarda/100-days-of-code-python/tree/main/day24) Files, Directories and Paths
 
 [//]: # (- [Day 25:]&#40;https://github.com/moraeseduarda/100-days-of-code-python/tree/main/day25&#41; Working with CSV Data and the Pandas Library)
 
