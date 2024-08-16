@@ -8,25 +8,29 @@ screen.setup(725, 491)
 image = "blank_states_img.gif"
 screen.addshape(image)
 turtle.shape(image)
+guessed_states = []
 
-states_correct = 0
 data = pandas.read_csv("50_states.csv")
 states = data["state"].to_list()
-x_list = data["x"].to_list()
-y_list = data["y"].to_list()
 
-while states_correct < 50:
-    answer = turtle.textinput(f"{states_correct}/50 States Correct", "What's another state name?")
-    for state in states:
-        if answer == state:
-            state_index = states.index(state)
-            new_x = x_list[state_index]
-            new_y = y_list[state_index]
+while len(guessed_states) < 50:
+    answer = turtle.textinput(f"{len(guessed_states)}/50 States Correct",
+                              "What's another state name?").title()
+    if answer == "Exit":
+        missing_states = []
+        for state in states:
+            if state not in guessed_states:
+                missing_states.append(state)
+        new_data = pandas.DataFrame(missing_states)
+        new_data.to_csv("states_to_learn.csv")
+        break
+
+    if answer in states:
+        if answer not in guessed_states:
+            state_data = data[data.state == answer]
             state_obj = turtle.Turtle()
             state_obj.penup()
             state_obj.hideturtle()
-            state_obj.teleport(new_x, new_y)
-            state_obj.write(state)
-            states_correct += 1
-
-screen.exitonclick()
+            state_obj.goto(state_data.x.item(), state_data.y.item())
+            state_obj.write(answer)
+            guessed_states.append(answer)
