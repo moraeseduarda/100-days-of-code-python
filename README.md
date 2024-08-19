@@ -15,7 +15,7 @@ Udemy Course: [100 Days of Code: The Complete Python Pro Bootcamp](https://www.u
 - [Day 6:](https://github.com/moraeseduarda/100-days-of-code-python/tree/main/day06) Python Functions & Karel
 - [Day 7:](https://github.com/moraeseduarda/100-days-of-code-python/tree/main/day07) Hangman
 - [Day 8:](https://github.com/moraeseduarda/100-days-of-code-python/tree/main/day08) Function Parameters & Caesar Cipher
-- [Day 9:](https://github.com/moraeseduarda/100-days-of-code-python/tree/main/day09) Dictionaries, Nesting and the Secret Auction
+- [Day 9:](            hhhhhhjjjgjjyhttps://github.com/moraeseduarda/100-days-of-code-python/tree/main/day09) Dictionaries, Nesting and the Secret Auction
 - [Day 10:](https://github.com/moraeseduarda/100-days-of-code-python/tree/main/day10) Functions with Outputs
 - [Day 11:](https://github.com/moraeseduarda/100-days-of-code-python/tree/main/day11) The Blackjack Capstone Project
 - [Day 12:](https://github.com/moraeseduarda/100-days-of-code-python/tree/main/day12) Scope & Number Guessing Game
@@ -34,8 +34,7 @@ Udemy Course: [100 Days of Code: The Complete Python Pro Bootcamp](https://www.u
 - [Day 23:](https://github.com/moraeseduarda/100-days-of-code-python/tree/main/day23) The Turtle Crossing Capstone Project
 - [Day 24:](https://github.com/moraeseduarda/100-days-of-code-python/tree/main/day24) Files, Directories and Paths
 - [Day 25:](https://github.com/moraeseduarda/100-days-of-code-python/tree/main/day25) Working with CSV Data and the Pandas Library
-
-[//]: # (- [Day 26:]&#40;https://github.com/moraeseduarda/100-days-of-code-python/tree/main/day26&#41; List Comprehension and the Nato Alphabet)
+- [Day 26:](https://github.com/moraeseduarda/100-days-of-code-python/tree/main/day26) List Comprehension and the Nato Alphabet
 
 [//]: # (- [Day 27:]&#40;https://github.com/moraeseduarda/100-days-of-code-python/tree/main/day27&#41; Tkinter, *args, **kwargs and Creating GUI Programs)
 
